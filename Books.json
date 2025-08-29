@@ -1,6 +1,8 @@
-{
-  "title": "My First Book",
-  "author": "Author Name",
-  "thumbnail": "https://drive.google.com/uc?export=view&id=1aDd1PLSwUpLfjuSQjGSAjjg1saEGLk5F",
-  "pdf": "https://drive.google.com/file/d/1a3Z88yN6borNSrKaZUyd8E3n97MewRYS/preview"
-}
+[
+  {
+    "title": "My First Book",
+    "author": "Author Name",
+    "thumbnail": "https://drive.google.com/uc?export=view&id=1aDd1PLSwUpLfjuSQjGSAjjg1saEGLk5F",
+    "pdf": "https://drive.google.com/file/d/1a3Z88yN6borNSrKaZUyd8E3n97MewRYS/preview"
+  }
+]
